@@ -1,0 +1,12 @@
+*~
+.DS_Store
+.cache*
+.project
+.classpath
+.settings/
+bin/
+target/
+project/project/
+project/target/
+play_icfp2015
+src/main/scala/io/hayato/icfpc2015/HexTetrisGUI.scala
